@@ -1,0 +1,132 @@
+Z:\B\מונק יעל\core\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\מונק יעל\core\bin\Debug\net5.0\appsettings.json
+Z:\B\מונק יעל\core\bin\Debug\net5.0\core.exe
+Z:\B\מונק יעל\core\bin\Debug\net5.0\core.deps.json
+Z:\B\מונק יעל\core\bin\Debug\net5.0\core.runtimeconfig.json
+Z:\B\מונק יעל\core\bin\Debug\net5.0\core.runtimeconfig.dev.json
+Z:\B\מונק יעל\core\bin\Debug\net5.0\core.dll
+Z:\B\מונק יעל\core\bin\Debug\net5.0\ref\core.dll
+Z:\B\מונק יעל\core\bin\Debug\net5.0\core.pdb
+Z:\B\מונק יעל\core\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\מונק יעל\core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\מונק יעל\core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\מונק יעל\core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.AssemblyInfo.cs
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\מונק יעל\core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
+Z:\B\מונק יעל\core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.xml
+Z:\B\מונק יעל\core\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.csproj.CopyComplete
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.dll
+Z:\B\מונק יעל\core\obj\Debug\net5.0\ref\core.dll
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.pdb
+Z:\B\מונק יעל\core\obj\Debug\net5.0\core.genruntimeconfig.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\appsettings.Development.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\appsettings.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\core.exe
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\core.deps.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\core.runtimeconfig.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\core.runtimeconfig.dev.json
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\core.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\ref\core.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\core.pdb
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.AssemblyInfo.cs
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.xml
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.csproj.CopyComplete
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\ref\core.dll
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.pdb
+Z:\mora\זילברברג\הגשת שיעורי בית\שיעור 1\גילה קניגסברג כבי דיסלר ויעל מונק\obj\Debug\net5.0\core.genruntimeconfig.cache
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.AssemblyInfo.cs
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.dll
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\ref\core.dll
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.pdb
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\appsettings.json
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Data\Task.json
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\core.exe
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\core.deps.json
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\core.runtimeconfig.json
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\core.runtimeconfig.dev.json
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\core.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\ref\core.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\core.pdb
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\שוב לאה\task-core\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.xml
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.csproj.CopyComplete
+Z:\B\שוב לאה\task-core\obj\Debug\net5.0\core.genruntimeconfig.cache
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.AssemblyInfo.cs
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.dll
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\ref\core.dll
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.pdb
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\appsettings.json
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Data\Task.json
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\core.exe
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\core.deps.json
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\core.runtimeconfig.json
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\core.runtimeconfig.dev.json
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\core.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\ref\core.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\core.pdb
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\אושר תמר\task-core\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.xml
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.csproj.CopyComplete
+Z:\B\אושר תמר\task-core\obj\Debug\net5.0\core.genruntimeconfig.cache
